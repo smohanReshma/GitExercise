@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -5,3 +6,6 @@ in master branch
 =======
 in branch reshma to check conflict
 
+=======
+in branch reshma to check conflict..
+>>>>>>> reshma
